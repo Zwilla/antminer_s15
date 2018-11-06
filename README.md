@@ -4,6 +4,7 @@
 
 ## Firmware
 * Backdoor free software
+* https://antminer.rocks/releases/Antminer_S15
 
 ## Mining Engine BitCaine5
 * the heart of all coins
@@ -28,7 +29,7 @@ NOTE! Only EU business customers can buy without taxes if they have a valid EU-T
 ## Verified antbleed Free Downloads
 * https://antminer-firmware.com
 * https://bitcaine5.com
-* https://antminer.rocks/releases/  (current downloads)
+* https://antminer.rocks/releases/  (current downloads all tested firmwares)
 
 ## Hardware Manufacture
 * can easy build there driver on top, 99% compatible to cgminer,
@@ -52,5 +53,6 @@ checkout the docs for more answerd to your questions. More docs coming soon
 * https://twitter.com/search?q=%23zwilla
 
 
- 
+###### This document
+* https://github.com/Zwilla/antminer_s15/blob/master/README.md 
 
